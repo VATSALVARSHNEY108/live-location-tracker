@@ -25,6 +25,6 @@ npm start
 
 4. Login credentials
 ```js
-username: admin
-password: admin
+username: vatsal
+password: vatsal
 ```
